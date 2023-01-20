@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    box-shadow: 1px, 1px 3px black  ;
+    width: 50vw;
+    margin: 25%;
+    padding: auto;
+}
+
+submit {
+    display: grid;
+    box-sizing: border-box;
+    background-color: hsl(213, 19%, 18%);
+    box-shadow: 1px 1px 3px black;
+}
